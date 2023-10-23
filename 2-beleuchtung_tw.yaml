@@ -1,0 +1,50 @@
+GA_config:
+  HG: 2
+  HG_Name: Beleuchung_TW
+  MG_Name:
+    - AUSSEN
+    - UG
+    - EG
+    - OG
+  
+block:  
+  blocksize: 10
+  entities: 
+    - EA
+    - DIM_REL
+    - DIM_ABS
+    - TW_ABS
+    - TW_REL
+    - RGB_ABS
+    - RM_EA
+    - RM_DIM
+    - RM_TWRGB
+    - FEHLER
+
+items:
+  - UG_Flur_Treppenbeleuchtung
+  - EG_Eingang_Spots
+  - EG_Eingang_Spot_Treppe
+  - EG_Garderobe_Spots
+  - EG_Flur_Deckenlicht
+  - EG_Flur_Treppenbeleuchtung
+  - EG_Küche_Spots_Arbeitsplatte
+  - EG_Küche_Spots_Nordreihe
+  - EG_Küche_Spots_Südreihe
+  - EG_Speise_Spots_Arbeitsplatte
+  - EG_Wohnen_Spots_Nordreihe
+  - EG_Wohnen_Spots_Südreihe
+  - EG_BadGast_Spots_Dusche
+  - EG_Bad_Gast_Spots_Fenster
+  - OG_Kinderbad_Spots_Zentral
+  - OG_Kinderbad_Spots_Waschtisch
+  - OG_Kinderbad_Spots_Dusche
+  - OG_Arbeit_Schreibtischleuchte
+  - OG_Bad_Spots_West
+  - OG_Bad_Spots_Ost
+  - OG_Bad_Spots_Dusche
+  - OG_Ankleide_Schrankbeleuchtung
+  - OG_WC_Spot
+  - OG_Balkon_Spot_Kind1
+  - OG_Balkon_Spot_Kind2
+  - OG_Balkon_Spot_Kind3

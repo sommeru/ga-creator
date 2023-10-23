@@ -1,0 +1,176 @@
+Main	Middle	Sub	Address	Central	Unfiltered	Description	DatapointType	Security
+Beleuchung_RGB			3/-/-					Auto
+	AUSSEN		3/0/-					Auto
+		AUSSEN_LED-Band_Ostbalkon_Haustüre EA	3/0/0					Auto
+		AUSSEN_LED-Band_Ostbalkon_Haustüre DIM_REL	3/0/1					Auto
+		AUSSEN_LED-Band_Ostbalkon_Haustüre DIM_ABS	3/0/2					Auto
+		AUSSEN_LED-Band_Ostbalkon_Haustüre TW_ABS	3/0/3					Auto
+		AUSSEN_LED-Band_Ostbalkon_Haustüre TW_REL	3/0/4					Auto
+		AUSSEN_LED-Band_Ostbalkon_Haustüre RGB_ABS	3/0/5					Auto
+		AUSSEN_LED-Band_Ostbalkon_Haustüre RM_EA	3/0/6					Auto
+		AUSSEN_LED-Band_Ostbalkon_Haustüre RM_DIM	3/0/7					Auto
+		AUSSEN_LED-Band_Ostbalkon_Haustüre RM_TWRGB	3/0/8					Auto
+		AUSSEN_LED-Band_Ostbalkon_Haustüre FEHLER	3/0/9					Auto
+		AUSSEN_LED-Band_Ostbalkon_Süd EA	3/0/10					Auto
+		AUSSEN_LED-Band_Ostbalkon_Süd DIM_REL	3/0/11					Auto
+		AUSSEN_LED-Band_Ostbalkon_Süd DIM_ABS	3/0/12					Auto
+		AUSSEN_LED-Band_Ostbalkon_Süd TW_ABS	3/0/13					Auto
+		AUSSEN_LED-Band_Ostbalkon_Süd TW_REL	3/0/14					Auto
+		AUSSEN_LED-Band_Ostbalkon_Süd RGB_ABS	3/0/15					Auto
+		AUSSEN_LED-Band_Ostbalkon_Süd RM_EA	3/0/16					Auto
+		AUSSEN_LED-Band_Ostbalkon_Süd RM_DIM	3/0/17					Auto
+		AUSSEN_LED-Band_Ostbalkon_Süd RM_TWRGB	3/0/18					Auto
+		AUSSEN_LED-Band_Ostbalkon_Süd FEHLER	3/0/19					Auto
+		AUSSEN_LED-Band_Südbalkon_Ost EA	3/0/20					Auto
+		AUSSEN_LED-Band_Südbalkon_Ost DIM_REL	3/0/21					Auto
+		AUSSEN_LED-Band_Südbalkon_Ost DIM_ABS	3/0/22					Auto
+		AUSSEN_LED-Band_Südbalkon_Ost TW_ABS	3/0/23					Auto
+		AUSSEN_LED-Band_Südbalkon_Ost TW_REL	3/0/24					Auto
+		AUSSEN_LED-Band_Südbalkon_Ost RGB_ABS	3/0/25					Auto
+		AUSSEN_LED-Band_Südbalkon_Ost RM_EA	3/0/26					Auto
+		AUSSEN_LED-Band_Südbalkon_Ost RM_DIM	3/0/27					Auto
+		AUSSEN_LED-Band_Südbalkon_Ost RM_TWRGB	3/0/28					Auto
+		AUSSEN_LED-Band_Südbalkon_Ost FEHLER	3/0/29					Auto
+		AUSSEN_LED-Band_Südbalkon_West EA	3/0/30					Auto
+		AUSSEN_LED-Band_Südbalkon_West DIM_REL	3/0/31					Auto
+		AUSSEN_LED-Band_Südbalkon_West DIM_ABS	3/0/32					Auto
+		AUSSEN_LED-Band_Südbalkon_West TW_ABS	3/0/33					Auto
+		AUSSEN_LED-Band_Südbalkon_West TW_REL	3/0/34					Auto
+		AUSSEN_LED-Band_Südbalkon_West RGB_ABS	3/0/35					Auto
+		AUSSEN_LED-Band_Südbalkon_West RM_EA	3/0/36					Auto
+		AUSSEN_LED-Band_Südbalkon_West RM_DIM	3/0/37					Auto
+		AUSSEN_LED-Band_Südbalkon_West RM_TWRGB	3/0/38					Auto
+		AUSSEN_LED-Band_Südbalkon_West FEHLER	3/0/39					Auto
+	UG		3/1/-					Auto
+	EG		3/2/-					Auto
+		EG_Eingang_Sitzfenster EA	3/2/0					Auto
+		EG_Eingang_Sitzfenster DIM_REL	3/2/1					Auto
+		EG_Eingang_Sitzfenster DIM_ABS	3/2/2					Auto
+		EG_Eingang_Sitzfenster TW_ABS	3/2/3					Auto
+		EG_Eingang_Sitzfenster TW_REL	3/2/4					Auto
+		EG_Eingang_Sitzfenster RGB_ABS	3/2/5					Auto
+		EG_Eingang_Sitzfenster RM_EA	3/2/6					Auto
+		EG_Eingang_Sitzfenster RM_DIM	3/2/7					Auto
+		EG_Eingang_Sitzfenster RM_TWRGB	3/2/8					Auto
+		EG_Eingang_Sitzfenster FEHLER	3/2/9					Auto
+		EG_Flur_Glaswand EA	3/2/10					Auto
+		EG_Flur_Glaswand DIM_REL	3/2/11					Auto
+		EG_Flur_Glaswand DIM_ABS	3/2/12					Auto
+		EG_Flur_Glaswand TW_ABS	3/2/13					Auto
+		EG_Flur_Glaswand TW_REL	3/2/14					Auto
+		EG_Flur_Glaswand RGB_ABS	3/2/15					Auto
+		EG_Flur_Glaswand RM_EA	3/2/16					Auto
+		EG_Flur_Glaswand RM_DIM	3/2/17					Auto
+		EG_Flur_Glaswand RM_TWRGB	3/2/18					Auto
+		EG_Flur_Glaswand FEHLER	3/2/19					Auto
+		EG_Küche_LED-Band EA	3/2/20					Auto
+		EG_Küche_LED-Band DIM_REL	3/2/21					Auto
+		EG_Küche_LED-Band DIM_ABS	3/2/22					Auto
+		EG_Küche_LED-Band TW_ABS	3/2/23					Auto
+		EG_Küche_LED-Band TW_REL	3/2/24					Auto
+		EG_Küche_LED-Band RGB_ABS	3/2/25					Auto
+		EG_Küche_LED-Band RM_EA	3/2/26					Auto
+		EG_Küche_LED-Band RM_DIM	3/2/27					Auto
+		EG_Küche_LED-Band RM_TWRGB	3/2/28					Auto
+		EG_Küche_LED-Band FEHLER	3/2/29					Auto
+		EG_Wohnen_LED-Band EA	3/2/30					Auto
+		EG_Wohnen_LED-Band DIM_REL	3/2/31					Auto
+		EG_Wohnen_LED-Band DIM_ABS	3/2/32					Auto
+		EG_Wohnen_LED-Band TW_ABS	3/2/33					Auto
+		EG_Wohnen_LED-Band TW_REL	3/2/34					Auto
+		EG_Wohnen_LED-Band RGB_ABS	3/2/35					Auto
+		EG_Wohnen_LED-Band RM_EA	3/2/36					Auto
+		EG_Wohnen_LED-Band RM_DIM	3/2/37					Auto
+		EG_Wohnen_LED-Band RM_TWRGB	3/2/38					Auto
+		EG_Wohnen_LED-Band FEHLER	3/2/39					Auto
+		EG_BadGast_Glaswand EA	3/2/40					Auto
+		EG_BadGast_Glaswand DIM_REL	3/2/41					Auto
+		EG_BadGast_Glaswand DIM_ABS	3/2/42					Auto
+		EG_BadGast_Glaswand TW_ABS	3/2/43					Auto
+		EG_BadGast_Glaswand TW_REL	3/2/44					Auto
+		EG_BadGast_Glaswand RGB_ABS	3/2/45					Auto
+		EG_BadGast_Glaswand RM_EA	3/2/46					Auto
+		EG_BadGast_Glaswand RM_DIM	3/2/47					Auto
+		EG_BadGast_Glaswand RM_TWRGB	3/2/48					Auto
+		EG_BadGast_Glaswand FEHLER	3/2/49					Auto
+	OG		3/3/-					Auto
+		OG_Flur LED-Band EA	3/3/0					Auto
+		OG_Flur LED-Band DIM_REL	3/3/1					Auto
+		OG_Flur LED-Band DIM_ABS	3/3/2					Auto
+		OG_Flur LED-Band TW_ABS	3/3/3					Auto
+		OG_Flur LED-Band TW_REL	3/3/4					Auto
+		OG_Flur LED-Band RGB_ABS	3/3/5					Auto
+		OG_Flur LED-Band RM_EA	3/3/6					Auto
+		OG_Flur LED-Band RM_DIM	3/3/7					Auto
+		OG_Flur LED-Band RM_TWRGB	3/3/8					Auto
+		OG_Flur LED-Band FEHLER	3/3/9					Auto
+		OG_Kinderbad_Nischenbeleuchtung EA	3/3/10					Auto
+		OG_Kinderbad_Nischenbeleuchtung DIM_REL	3/3/11					Auto
+		OG_Kinderbad_Nischenbeleuchtung DIM_ABS	3/3/12					Auto
+		OG_Kinderbad_Nischenbeleuchtung TW_ABS	3/3/13					Auto
+		OG_Kinderbad_Nischenbeleuchtung TW_REL	3/3/14					Auto
+		OG_Kinderbad_Nischenbeleuchtung RGB_ABS	3/3/15					Auto
+		OG_Kinderbad_Nischenbeleuchtung RM_EA	3/3/16					Auto
+		OG_Kinderbad_Nischenbeleuchtung RM_DIM	3/3/17					Auto
+		OG_Kinderbad_Nischenbeleuchtung RM_TWRGB	3/3/18					Auto
+		OG_Kinderbad_Nischenbeleuchtung FEHLER	3/3/19					Auto
+		OG_Kind1_LED-Band EA	3/3/20					Auto
+		OG_Kind1_LED-Band DIM_REL	3/3/21					Auto
+		OG_Kind1_LED-Band DIM_ABS	3/3/22					Auto
+		OG_Kind1_LED-Band TW_ABS	3/3/23					Auto
+		OG_Kind1_LED-Band TW_REL	3/3/24					Auto
+		OG_Kind1_LED-Band RGB_ABS	3/3/25					Auto
+		OG_Kind1_LED-Band RM_EA	3/3/26					Auto
+		OG_Kind1_LED-Band RM_DIM	3/3/27					Auto
+		OG_Kind1_LED-Band RM_TWRGB	3/3/28					Auto
+		OG_Kind1_LED-Band FEHLER	3/3/29					Auto
+		OG_Kind2_LED-Band EA	3/3/30					Auto
+		OG_Kind2_LED-Band DIM_REL	3/3/31					Auto
+		OG_Kind2_LED-Band DIM_ABS	3/3/32					Auto
+		OG_Kind2_LED-Band TW_ABS	3/3/33					Auto
+		OG_Kind2_LED-Band TW_REL	3/3/34					Auto
+		OG_Kind2_LED-Band RGB_ABS	3/3/35					Auto
+		OG_Kind2_LED-Band RM_EA	3/3/36					Auto
+		OG_Kind2_LED-Band RM_DIM	3/3/37					Auto
+		OG_Kind2_LED-Band RM_TWRGB	3/3/38					Auto
+		OG_Kind2_LED-Band FEHLER	3/3/39					Auto
+		OG_Kind3_LED-Band EA	3/3/40					Auto
+		OG_Kind3_LED-Band DIM_REL	3/3/41					Auto
+		OG_Kind3_LED-Band DIM_ABS	3/3/42					Auto
+		OG_Kind3_LED-Band TW_ABS	3/3/43					Auto
+		OG_Kind3_LED-Band TW_REL	3/3/44					Auto
+		OG_Kind3_LED-Band RGB_ABS	3/3/45					Auto
+		OG_Kind3_LED-Band RM_EA	3/3/46					Auto
+		OG_Kind3_LED-Band RM_DIM	3/3/47					Auto
+		OG_Kind3_LED-Band RM_TWRGB	3/3/48					Auto
+		OG_Kind3_LED-Band FEHLER	3/3/49					Auto
+		OG_Eltern_Schrankbeleuchtung EA	3/3/50					Auto
+		OG_Eltern_Schrankbeleuchtung DIM_REL	3/3/51					Auto
+		OG_Eltern_Schrankbeleuchtung DIM_ABS	3/3/52					Auto
+		OG_Eltern_Schrankbeleuchtung TW_ABS	3/3/53					Auto
+		OG_Eltern_Schrankbeleuchtung TW_REL	3/3/54					Auto
+		OG_Eltern_Schrankbeleuchtung RGB_ABS	3/3/55					Auto
+		OG_Eltern_Schrankbeleuchtung RM_EA	3/3/56					Auto
+		OG_Eltern_Schrankbeleuchtung RM_DIM	3/3/57					Auto
+		OG_Eltern_Schrankbeleuchtung RM_TWRGB	3/3/58					Auto
+		OG_Eltern_Schrankbeleuchtung FEHLER	3/3/59					Auto
+		OG_Bad_LED-Band_Waschtisch EA	3/3/60					Auto
+		OG_Bad_LED-Band_Waschtisch DIM_REL	3/3/61					Auto
+		OG_Bad_LED-Band_Waschtisch DIM_ABS	3/3/62					Auto
+		OG_Bad_LED-Band_Waschtisch TW_ABS	3/3/63					Auto
+		OG_Bad_LED-Band_Waschtisch TW_REL	3/3/64					Auto
+		OG_Bad_LED-Band_Waschtisch RGB_ABS	3/3/65					Auto
+		OG_Bad_LED-Band_Waschtisch RM_EA	3/3/66					Auto
+		OG_Bad_LED-Band_Waschtisch RM_DIM	3/3/67					Auto
+		OG_Bad_LED-Band_Waschtisch RM_TWRGB	3/3/68					Auto
+		OG_Bad_LED-Band_Waschtisch FEHLER	3/3/69					Auto
+		OG_Bad_LED-Band_Dusche EA	3/3/70					Auto
+		OG_Bad_LED-Band_Dusche DIM_REL	3/3/71					Auto
+		OG_Bad_LED-Band_Dusche DIM_ABS	3/3/72					Auto
+		OG_Bad_LED-Band_Dusche TW_ABS	3/3/73					Auto
+		OG_Bad_LED-Band_Dusche TW_REL	3/3/74					Auto
+		OG_Bad_LED-Band_Dusche RGB_ABS	3/3/75					Auto
+		OG_Bad_LED-Band_Dusche RM_EA	3/3/76					Auto
+		OG_Bad_LED-Band_Dusche RM_DIM	3/3/77					Auto
+		OG_Bad_LED-Band_Dusche RM_TWRGB	3/3/78					Auto
+		OG_Bad_LED-Band_Dusche FEHLER	3/3/79					Auto

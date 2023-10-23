@@ -1,0 +1,41 @@
+GA_config:
+  HG: 3
+  HG_Name: Beleuchung_RGB
+  MG_Name:
+    - AUSSEN
+    - UG
+    - EG
+    - OG
+  
+block:  
+  blocksize: 10
+  entities: 
+    - EA
+    - DIM_REL
+    - DIM_ABS
+    - TW_ABS
+    - TW_REL
+    - RGB_ABS
+    - RM_EA
+    - RM_DIM
+    - RM_TWRGB
+    - FEHLER
+
+items:
+  - AUSSEN_LED-Band_Ostbalkon_Haustüre
+  - AUSSEN_LED-Band_Ostbalkon_Süd
+  - AUSSEN_LED-Band_Südbalkon_Ost
+  - AUSSEN_LED-Band_Südbalkon_West
+  - EG_Eingang_Sitzfenster
+  - EG_Flur_Glaswand
+  - EG_Küche_LED-Band
+  - EG_Wohnen_LED-Band
+  - EG_BadGast_Glaswand
+  - OG_Flur LED-Band
+  - OG_Kinderbad_Nischenbeleuchtung
+  - OG_Kind1_LED-Band
+  - OG_Kind2_LED-Band
+  - OG_Kind3_LED-Band
+  - OG_Eltern_Schrankbeleuchtung
+  - OG_Bad_LED-Band_Waschtisch
+  - OG_Bad_LED-Band_Dusche

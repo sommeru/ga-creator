@@ -14,6 +14,18 @@ Verbraucher			4/-/-					Auto
 		AUSSEN_Steckdosen_Fahrrad LEISTUNG	4/0/31					Auto
 		AUSSEN_Steckdosen_Fahrrad RM_EA	4/0/32					Auto
 	UG		4/1/-					Auto
+		UG_Elektro_Steckdosen_Brüstungskanal EA	4/1/0					Auto
+		UG_Elektro_Steckdosen_Brüstungskanal LEISTUNG	4/1/1					Auto
+		UG_Elektro_Steckdosen_Brüstungskanal RM_EA	4/1/2					Auto
+		UG_Werkstatt_Steckdosen_Brüstungskanal EA	4/1/10					Auto
+		UG_Werkstatt_Steckdosen_Brüstungskanal LEISTUNG	4/1/11					Auto
+		UG_Werkstatt_Steckdosen_Brüstungskanal RM_EA	4/1/12					Auto
+		UG_Hauswirtschaft_Waschmaschine EA	4/1/20					Auto
+		UG_Hauswirtschaft_Waschmaschine LEISTUNG	4/1/21					Auto
+		UG_Hauswirtschaft_Waschmaschine RM_EA	4/1/22					Auto
+		UG_Hauswirtschaft_Trockner EA	4/1/30					Auto
+		UG_Hauswirtschaft_Trockner LEISTUNG	4/1/31					Auto
+		UG_Hauswirtschaft_Trockner RM_EA	4/1/32					Auto
 	EG		4/2/-					Auto
 		EG_Küche_Kaffeemaschine EA	4/2/0					Auto
 		EG_Küche_Kaffeemaschine LEISTUNG	4/2/1					Auto
