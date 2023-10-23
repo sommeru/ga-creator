@@ -1,0 +1,42 @@
+Main	Middle	Sub	Address	Central	Unfiltered	Description	DatapointType	Security
+Verbraucher			4/-/-					Auto
+	AUSSEN		4/0/-					Auto
+		AUSSEN_Steckdosen_Ostseite EA	4/0/0					Auto
+		AUSSEN_Steckdosen_Ostseite LEISTUNG	4/0/1					Auto
+		AUSSEN_Steckdosen_Ostseite RM_EA	4/0/2					Auto
+		AUSSEN_Steckdosen_Südseite EA	4/0/10					Auto
+		AUSSEN_Steckdosen_Südseite LEISTUNG	4/0/11					Auto
+		AUSSEN_Steckdosen_Südseite RM_EA	4/0/12					Auto
+		AUSSEN_Steckdosen_Westseite EA	4/0/20					Auto
+		AUSSEN_Steckdosen_Westseite LEISTUNG	4/0/21					Auto
+		AUSSEN_Steckdosen_Westseite RM_EA	4/0/22					Auto
+		AUSSEN_Steckdosen_Fahrrad EA	4/0/30					Auto
+		AUSSEN_Steckdosen_Fahrrad LEISTUNG	4/0/31					Auto
+		AUSSEN_Steckdosen_Fahrrad RM_EA	4/0/32					Auto
+	UG		4/1/-					Auto
+	EG		4/2/-					Auto
+		EG_Küche_Kaffeemaschine EA	4/2/0					Auto
+		EG_Küche_Kaffeemaschine LEISTUNG	4/2/1					Auto
+		EG_Küche_Kaffeemaschine RM_EA	4/2/2					Auto
+		EG_Küche_Dunstabzug EA	4/2/10					Auto
+		EG_Küche_Dunstabzug LEISTUNG	4/2/11					Auto
+		EG_Küche_Dunstabzug RM_EA	4/2/12					Auto
+	OG		4/3/-					Auto
+		OG_Eltern_Klima EA	4/3/0					Auto
+		OG_Eltern_Klima LEISTUNG	4/3/1					Auto
+		OG_Eltern_Klima RM_EA	4/3/2					Auto
+		OG_Bad_Handtuchheizkörper EA	4/3/10					Auto
+		OG_Bad_Handtuchheizkörper LEISTUNG	4/3/11					Auto
+		OG_Bad_Handtuchheizkörper RM_EA	4/3/12					Auto
+		OG_Balkon_Steckdosen_Ost EA	4/3/20					Auto
+		OG_Balkon_Steckdosen_Ost LEISTUNG	4/3/21					Auto
+		OG_Balkon_Steckdosen_Ost RM_EA	4/3/22					Auto
+		OG_Balkon_Steckdosen_Süd EA	4/3/30					Auto
+		OG_Balkon_Steckdosen_Süd LEISTUNG	4/3/31					Auto
+		OG_Balkon_Steckdosen_Süd RM_EA	4/3/32					Auto
+		OG_Balkon_Weihnachtsbeleuchtung_Ost EA	4/3/40					Auto
+		OG_Balkon_Weihnachtsbeleuchtung_Ost LEISTUNG	4/3/41					Auto
+		OG_Balkon_Weihnachtsbeleuchtung_Ost RM_EA	4/3/42					Auto
+		OG_Balkon_Weihnachtsbeleuchtung_West EA	4/3/50					Auto
+		OG_Balkon_Weihnachtsbeleuchtung_West LEISTUNG	4/3/51					Auto
+		OG_Balkon_Weihnachtsbeleuchtung_West RM_EA	4/3/52					Auto

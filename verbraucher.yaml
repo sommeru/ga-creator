@@ -1,6 +1,7 @@
 GA_config:
   HG: 4
-  MG:
+  HG_Name: Verbraucher
+  MG_Name:
     - AUSSEN
     - UG
     - EG
@@ -18,6 +19,10 @@ items:
   - AUSSEN_Steckdosen_Südseite
   - AUSSEN_Steckdosen_Westseite
   - AUSSEN_Steckdosen_Fahrrad
+  - UG_Elektro_Steckdosen_Brüstungskanal
+  - UG_Werkstatt_Steckdosen_Brüstungskanal
+  - UG_Hauswirtschaft_Waschmaschine
+  - UG_Hauswirtschaft_Trockner
   - EG_Küche_Kaffeemaschine
   - EG_Küche_Dunstabzug  
   - OG_Eltern_Klima

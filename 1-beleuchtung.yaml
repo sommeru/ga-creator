@@ -1,0 +1,74 @@
+GA_config:
+  HG: 1
+  HG_Name: Beleuchung
+  MG_Name:
+    - AUSSEN
+    - UG
+    - EG
+    - OG
+  
+block:  
+  blocksize: 10
+  entities: 
+    - EA
+    - DIM_REL
+    - DIM_ABS
+    - TW_ABS
+    - TW_REL
+    - RGB_ABS
+    - RM_EA
+    - RM_DIM
+    - RM_TWRGB
+    - FEHLER
+
+items:
+  - AUSSEN_Wandlampe_Terrasse_West
+  - AUSSEN_Wandlampen_Garage_Nord 
+  - AUSSEN_Wandlampen_Nebengebäude_Ost 
+  - AUSSEN_Wandlampen_Garageneinfahrt
+  - AUSSEN_Wandlampe_Garage_Süd
+  - AUSSEN_Wegleuchte_Eingang
+  - AUSSEN_Wegleuchte_Einfahrt
+  - AUSSEN_Wandlampen_Nordseite
+  - AUSSEN_Gartenlicht
+  - AUSSEN_Garage_Deckenlicht
+  - AUSSEN_Fahrrad_Deckenlicht
+  - AUSSEN_Schuppen_Deckenlicht
+  - UG_Elektro_Deckenlicht
+  - UG_Elektro_Schreibtischlicht
+  - UG_Werkstatt_Deckenlicht
+  - UG_Lager_Deckenlicht
+  - UG_Abstell_Deckenlicht
+  - UG_Hauswirtschaft_Deckenlicht
+  - UG_Heizung_Deckenlicht
+  - EG_Küche_Deckenlicht_Esstisch
+  - EG_Küche_Deckenlicht_Kochinsel
+  - EG_Speise_Deckenlicht
+  - EG_Wohnen_Deckenlampe
+  - EG_Wohnen_Kaminlampe
+  - EG_Gast_Deckenlampe_zentral
+  - EG_Gast_Deckenlampe_Eck
+  - EG_BadGast_Deckenlampe
+  - EG_BadGast_Spiegel
+  - OG_Flur_Deckenlicht
+  - OG_Flur_Deckenlicht_Treppe
+  - OG_Kinderbad_Spiegel
+  - OG_Arbeit_Deckenlicht
+  - OG_Kind1_Deckenlicht_Eingang
+  - OG_Kind1_Deckenlicht_Zentral
+  - OG_Kind1_Wandlampe_Bett
+  - OG_Kind2_Deckenlicht_Eingang
+  - OG_Kind2_Deckenlicht_Zentral
+  - OG_Kind2_Wandlampe_Bett
+  - OG_Kind3_Deckenlicht_Eingang
+  - OG_Kind3_Deckenlicht_Zentral
+  - OG_Kind3_Wandlampe_Bett
+  - OG_Eltern_Deckenlampe_Zentral
+  - OG_Eltern_Deckenlampe_Bett_links
+  - OG_Eltern_Deckenlampe_Bett_rechts
+  - OG_Eltern_Deckenlampe_Eck
+  - OG_Bad_Deckenlampe_Badewanne
+  - OG_Bad_Spiegel
+  - OG_Ankleide_Spiegel
+  - OG_Balkon_DeckenlampeBad
+  - OG_Balkon_Wandlampen
