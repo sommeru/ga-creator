@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "ga-creator"
+version = "0.1.0"
+description = ""
+authors = ["Ulrich Sommer <mail@ulrich-sommer.de>"]
+readme = "README.md"
+packages = [{include = "ga_creator"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
