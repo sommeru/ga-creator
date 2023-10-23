@@ -1,0 +1,31 @@
+GA_config:
+  HG: 4
+  MG:
+    - AUSSEN
+    - UG
+    - EG
+    - OG
+  
+block:  
+  blocksize: 10
+  entities: 
+    - EA
+    - LEISTUNG
+    - RM_EA
+
+items:
+  - AUSSEN_Steckdosen_Ostseite
+  - AUSSEN_Steckdosen_Südseite
+  - AUSSEN_Steckdosen_Westseite
+  - AUSSEN_Steckdosen_Fahrrad
+  - EG_Küche_Kaffeemaschine
+  - EG_Küche_Dunstabzug  
+  - OG_Eltern_Klima
+  - OG_Bad_Handtuchheizkörper
+  - OG_Balkon_Steckdosen_Ost
+  - OG_Balkon_Steckdosen_Süd
+  - OG_Balkon_Weihnachtsbeleuchtung_Ost
+  - OG_Balkon_Weihnachtsbeleuchtung_West
+
+
+  
