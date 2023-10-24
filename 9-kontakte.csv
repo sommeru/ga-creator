@@ -1,0 +1,65 @@
+Main	Middle	Sub	Address	Central	Unfiltered	Description	DatapointType	Security
+Kontakte			9/-/-					Auto
+	AUSSEN		9/0/-					Auto
+		AUSSEN_Garagentor_TK ZUSTAND	9/0/0					Auto
+		AUSSEN_Garagetüre_TK ZUSTAND	9/0/10					Auto
+		AUSSEN_Fahrradschuppen_TK ZUSTAND	9/0/20					Auto
+		AUSSEN_Geräteschuppen_TK ZUSTAND	9/0/30					Auto
+		AUSSEN_Garagenfenster_FK ZUSTAND	9/0/40					Auto
+		AUSSEN_Garagenfenster_FK2 ZUSTAND	9/0/45					Auto
+	UG		9/1/-					Auto
+		UG_Elektro_FK_West ZUSTAND	9/1/0					Auto
+		UG_Elektro_FK_Ost ZUSTAND	9/1/10					Auto
+		UG_Werkstatt_FK_Süd ZUSTAND	9/1/20					Auto
+		UG_Werkstatt_FK_Nord ZUSTAND	9/1/30					Auto
+		UG_Lager_FK ZUSTAND	9/1/40					Auto
+		UG_Abstell_FK ZUSTAND	9/1/50					Auto
+		UG_Hauswirtschaft_FK ZUSTAND	9/1/60					Auto
+		UG_Heizung_FK ZUSTAND	9/1/70					Auto
+	EG		9/2/-					Auto
+		EG_Eingang_FK ZUSTAND	9/2/0					Auto
+		EG_Eingang_FK2 ZUSTAND	9/2/5					Auto
+		EG_Eingang_TK ZUSTAND	9/2/10					Auto
+		EG_Küche_FK_Ost ZUSTAND	9/2/20					Auto
+		EG_Küche_FK2_Ost ZUSTAND	9/2/25					Auto
+		EG_Küche_FK_Südost ZUSTAND	9/2/30					Auto
+		EG_Küche_FK2_Südost ZUSTAND	9/2/35					Auto
+		EG_Küche_FK_Südwest ZUSTAND	9/2/40					Auto
+		EG_Küche_FK2_Südwest ZUSTAND	9/2/45					Auto
+		EG_Speise_FK ZUSTAND	9/2/50					Auto
+		EG_Speise_FK2 ZUSTAND	9/2/55					Auto
+		EG_Wohnen_FK ZUSTAND	9/2/60					Auto
+		EG_Wohnen_FK2 ZUSTAND	9/2/65					Auto
+		EG_Gast_FK_West ZUSTAND	9/2/70					Auto
+		EG_Gast_FK2_West ZUSTAND	9/2/75					Auto
+		EG_Gast_FK_Nord ZUSTAND	9/2/80					Auto
+		EG_Gast_FK2_Nord ZUSTAND	9/2/85					Auto
+		EG_BadGast_FK ZUSTAND	9/2/90					Auto
+		EG_BadGast_FK2 ZUSTAND	9/2/95					Auto
+	OG		9/3/-					Auto
+		OG_Flur_FK ZUSTAND	9/3/0					Auto
+		OG_Flur_FK2 ZUSTAND	9/3/5					Auto
+		OG_Kinderbad_FK ZUSTAND	9/3/10					Auto
+		OG_Kinderbad_FK2 ZUSTAND	9/3/15					Auto
+		OG_Arbeit_FK_West ZUSTAND	9/3/20					Auto
+		OG_Arbeit_FK2_West ZUSTAND	9/3/25					Auto
+		OG_Arbeit_FK_Nord ZUSTAND	9/3/30					Auto
+		OG_Arbeit_FK2_Nord ZUSTAND	9/3/35					Auto
+		OG_Kind1_FK_Balkon ZUSTAND	9/3/40					Auto
+		OG_Kind1_FK2_Balkon ZUSTAND	9/3/45					Auto
+		OG_Kind1_FK_West ZUSTAND	9/3/50					Auto
+		OG_Kind1_FK2_West ZUSTAND	9/3/55					Auto
+		OG_Kind1_FK_Dachfenster ZUSTAND	9/3/60					Auto
+		OG_Kind2_FK_Balkon ZUSTAND	9/3/70					Auto
+		OG_Kind2_FK2_Balkon ZUSTAND	9/3/75					Auto
+		OG_Kind2_FK_Dachfenster ZUSTAND	9/3/80					Auto
+		OG_Kind3_FK_Balkon ZUSTAND	9/3/90					Auto
+		OG_Kind3_FK2_Balkon ZUSTAND	9/3/95					Auto
+		OG_Kind3_FK_Dachfenster ZUSTAND	9/3/100					Auto
+		OG_Eltern_FK ZUSTAND	9/3/110					Auto
+		OG_Eltern_FK2 ZUSTAND	9/3/115					Auto
+		OG_Bad_FK ZUSTAND	9/3/120					Auto
+		OG_Bad_FK2 ZUSTAND	9/3/125					Auto
+		OG_Ankleide_FK_Dachfenster ZUSTAND	9/3/130					Auto
+		OG_WC_FK ZUSTAND	9/3/140					Auto
+		OG_WC_FK2 ZUSTAND	9/3/145					Auto

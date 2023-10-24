@@ -1,0 +1,49 @@
+GA_config:
+  HG: 6
+  HG_Name: Jalousien
+  
+  MG_Name:
+    - AUSSEN
+    - UG
+    - EG
+    - OG
+  
+block:  
+  blocksize: 10
+  entities: 
+    - AUF/AB
+    - LAMELLEN 
+    - ABS_POS
+    - ABS_LAMELLEN
+    - FAHRZEITMESSUNG
+    - DIAGNOSETEXT
+    - RM_POSHÖHE
+    - RM_POSLAMELLEN
+
+items:
+  - EG_Eingang_Jalousie
+  - EG_Küche_Jalousie_Ost
+  - EG_Küche_Jalousie_Südost
+  - EG_Küche_Jalousie_Südwest
+  - EG_Wohnen_Jalousie_West
+  - EG_Wohnen_Jalousie_Süd
+  - EG_Gast_Jalousie_West
+  - EG_Gast_Jalousie_Nord
+  - EG_BadGast_Jalousie
+  - AUSSEN_Markise Süd-Ost
+  - AUSSEN_Markise Süd-West
+  - OG_Flur_Jalousie
+  - OG_Kinderbad_Jalousie
+  - OG_Arbeit_Jalousie_West
+  - OG_Arbeit_Jalousie_Nord
+  - OG_Kind1_Jalousie
+  - OG_Kind1_Jalousie
+  - OG_Kind1_JalousieDachfenster
+  - OG_Kind2_Jalousie
+  - OG_Kind2_JalousieDachfenster
+  - OG_Kind3_Jalousie
+  - OG_Kind3_JalousieDachfenster
+  - OG_Eltern_Jalousie
+  - OG_Bad_Jalousie
+  - OG_Ankleide_JalousieDachfenster
+  - OG_WC_Jalousie

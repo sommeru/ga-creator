@@ -1,0 +1,65 @@
+GA_config:
+  HG: 5
+  HG_Name: Präsenz
+  MG_Name:
+    - AUSSEN
+    - UG
+    - EG
+    - OG
+  
+block:  
+  blocksize: 20
+  entities: 
+    - TASTERKURZ
+    - TASTERLANG
+    - EXTBEWEGUNG
+    - STATUSAKTOR
+    - SPERRE
+    - ZWANGSFÜHRUNG
+    - STATUSAUTOMATIK
+    - NURIMDUNKELNAKTIV
+    - NACHLAUFZEIT
+    - LEDROT
+    - RAUMHELLIGKEIT
+    - HELLIGKEITSSCHWELLWERT
+    - START_KALIBRIERUNG
+    - DIMMWERT
+
+items:
+  - UG_Flur_BM_Treppe
+  - UG_Flur_BM_West
+  - UG_Elektro_PM
+  - UG_Werkstatt_PM
+  - UG_Lager_PM
+  - UG_Abstell_PM
+  - UG_Hauswirtschaft_PM
+  - UG_Heizung_PM
+  - EG_Eingang_PM
+  - EG_Garderobe_PM
+  - EG_Flur_PM
+  - EG_Küche_PM
+  - EG_Speise_PM
+  - EG_Wohnen_PM
+  - EG_Gast_PM
+  - EG_BadGast_PM
+  - AUSSEN_Präsenzmelder_Garage
+  - AUSSEN_Präsenz_Fahrrad
+  - AUSSEN_Präsenz_Schuppen
+  - AUSSEN_BM_Eingangsbereich
+  - AUSSEN_BM_Küche
+  - AUSSEN_Garage_West
+  - AUSSEN_Schuppen_Süd
+  - AUSSEN_Garage_Ost
+  - AUSSEN_Garage_Süd
+  - OG_Flur_PM
+  - OG_Kinderbad_PM
+  - OG_Arbeit_PM
+  - OG_Kind1_PM
+  - OG_Kind2_PM
+  - OG_Kind3_PM
+  - OG_Eltern_BM_BettRechts
+  - OG_Eltern_BM_BettLinks
+  - OG_Eltern_PM
+  - OG_Bad_PM
+  - OG_Ankleide_PM
+  - OG_WC_PM

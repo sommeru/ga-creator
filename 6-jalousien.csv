@@ -1,0 +1,214 @@
+Main	Middle	Sub	Address	Central	Unfiltered	Description	DatapointType	Security
+Jalousien			6/-/-					Auto
+	AUSSEN		6/0/-					Auto
+		AUSSEN_Markise Süd-Ost AUF/AB	6/0/0					Auto
+		AUSSEN_Markise Süd-Ost LAMELLEN	6/0/1					Auto
+		AUSSEN_Markise Süd-Ost ABS_POS	6/0/2					Auto
+		AUSSEN_Markise Süd-Ost ABS_LAMELLEN	6/0/3					Auto
+		AUSSEN_Markise Süd-Ost FAHRZEITMESSUNG	6/0/4					Auto
+		AUSSEN_Markise Süd-Ost DIAGNOSETEXT	6/0/5					Auto
+		AUSSEN_Markise Süd-Ost RM_POSHÖHE	6/0/6					Auto
+		AUSSEN_Markise Süd-Ost RM_POSLAMELLEN	6/0/7					Auto
+		AUSSEN_Markise Süd-West AUF/AB	6/0/10					Auto
+		AUSSEN_Markise Süd-West LAMELLEN	6/0/11					Auto
+		AUSSEN_Markise Süd-West ABS_POS	6/0/12					Auto
+		AUSSEN_Markise Süd-West ABS_LAMELLEN	6/0/13					Auto
+		AUSSEN_Markise Süd-West FAHRZEITMESSUNG	6/0/14					Auto
+		AUSSEN_Markise Süd-West DIAGNOSETEXT	6/0/15					Auto
+		AUSSEN_Markise Süd-West RM_POSHÖHE	6/0/16					Auto
+		AUSSEN_Markise Süd-West RM_POSLAMELLEN	6/0/17					Auto
+	UG		6/1/-					Auto
+	EG		6/2/-					Auto
+		EG_Eingang_Jalousie AUF/AB	6/2/0					Auto
+		EG_Eingang_Jalousie LAMELLEN	6/2/1					Auto
+		EG_Eingang_Jalousie ABS_POS	6/2/2					Auto
+		EG_Eingang_Jalousie ABS_LAMELLEN	6/2/3					Auto
+		EG_Eingang_Jalousie FAHRZEITMESSUNG	6/2/4					Auto
+		EG_Eingang_Jalousie DIAGNOSETEXT	6/2/5					Auto
+		EG_Eingang_Jalousie RM_POSHÖHE	6/2/6					Auto
+		EG_Eingang_Jalousie RM_POSLAMELLEN	6/2/7					Auto
+		EG_Küche_Jalousie_Ost AUF/AB	6/2/10					Auto
+		EG_Küche_Jalousie_Ost LAMELLEN	6/2/11					Auto
+		EG_Küche_Jalousie_Ost ABS_POS	6/2/12					Auto
+		EG_Küche_Jalousie_Ost ABS_LAMELLEN	6/2/13					Auto
+		EG_Küche_Jalousie_Ost FAHRZEITMESSUNG	6/2/14					Auto
+		EG_Küche_Jalousie_Ost DIAGNOSETEXT	6/2/15					Auto
+		EG_Küche_Jalousie_Ost RM_POSHÖHE	6/2/16					Auto
+		EG_Küche_Jalousie_Ost RM_POSLAMELLEN	6/2/17					Auto
+		EG_Küche_Jalousie_Südost AUF/AB	6/2/20					Auto
+		EG_Küche_Jalousie_Südost LAMELLEN	6/2/21					Auto
+		EG_Küche_Jalousie_Südost ABS_POS	6/2/22					Auto
+		EG_Küche_Jalousie_Südost ABS_LAMELLEN	6/2/23					Auto
+		EG_Küche_Jalousie_Südost FAHRZEITMESSUNG	6/2/24					Auto
+		EG_Küche_Jalousie_Südost DIAGNOSETEXT	6/2/25					Auto
+		EG_Küche_Jalousie_Südost RM_POSHÖHE	6/2/26					Auto
+		EG_Küche_Jalousie_Südost RM_POSLAMELLEN	6/2/27					Auto
+		EG_Küche_Jalousie_Südwest AUF/AB	6/2/30					Auto
+		EG_Küche_Jalousie_Südwest LAMELLEN	6/2/31					Auto
+		EG_Küche_Jalousie_Südwest ABS_POS	6/2/32					Auto
+		EG_Küche_Jalousie_Südwest ABS_LAMELLEN	6/2/33					Auto
+		EG_Küche_Jalousie_Südwest FAHRZEITMESSUNG	6/2/34					Auto
+		EG_Küche_Jalousie_Südwest DIAGNOSETEXT	6/2/35					Auto
+		EG_Küche_Jalousie_Südwest RM_POSHÖHE	6/2/36					Auto
+		EG_Küche_Jalousie_Südwest RM_POSLAMELLEN	6/2/37					Auto
+		EG_Wohnen_Jalousie_West AUF/AB	6/2/40					Auto
+		EG_Wohnen_Jalousie_West LAMELLEN	6/2/41					Auto
+		EG_Wohnen_Jalousie_West ABS_POS	6/2/42					Auto
+		EG_Wohnen_Jalousie_West ABS_LAMELLEN	6/2/43					Auto
+		EG_Wohnen_Jalousie_West FAHRZEITMESSUNG	6/2/44					Auto
+		EG_Wohnen_Jalousie_West DIAGNOSETEXT	6/2/45					Auto
+		EG_Wohnen_Jalousie_West RM_POSHÖHE	6/2/46					Auto
+		EG_Wohnen_Jalousie_West RM_POSLAMELLEN	6/2/47					Auto
+		EG_Wohnen_Jalousie_Süd AUF/AB	6/2/50					Auto
+		EG_Wohnen_Jalousie_Süd LAMELLEN	6/2/51					Auto
+		EG_Wohnen_Jalousie_Süd ABS_POS	6/2/52					Auto
+		EG_Wohnen_Jalousie_Süd ABS_LAMELLEN	6/2/53					Auto
+		EG_Wohnen_Jalousie_Süd FAHRZEITMESSUNG	6/2/54					Auto
+		EG_Wohnen_Jalousie_Süd DIAGNOSETEXT	6/2/55					Auto
+		EG_Wohnen_Jalousie_Süd RM_POSHÖHE	6/2/56					Auto
+		EG_Wohnen_Jalousie_Süd RM_POSLAMELLEN	6/2/57					Auto
+		EG_Gast_Jalousie_West AUF/AB	6/2/60					Auto
+		EG_Gast_Jalousie_West LAMELLEN	6/2/61					Auto
+		EG_Gast_Jalousie_West ABS_POS	6/2/62					Auto
+		EG_Gast_Jalousie_West ABS_LAMELLEN	6/2/63					Auto
+		EG_Gast_Jalousie_West FAHRZEITMESSUNG	6/2/64					Auto
+		EG_Gast_Jalousie_West DIAGNOSETEXT	6/2/65					Auto
+		EG_Gast_Jalousie_West RM_POSHÖHE	6/2/66					Auto
+		EG_Gast_Jalousie_West RM_POSLAMELLEN	6/2/67					Auto
+		EG_Gast_Jalousie_Nord AUF/AB	6/2/70					Auto
+		EG_Gast_Jalousie_Nord LAMELLEN	6/2/71					Auto
+		EG_Gast_Jalousie_Nord ABS_POS	6/2/72					Auto
+		EG_Gast_Jalousie_Nord ABS_LAMELLEN	6/2/73					Auto
+		EG_Gast_Jalousie_Nord FAHRZEITMESSUNG	6/2/74					Auto
+		EG_Gast_Jalousie_Nord DIAGNOSETEXT	6/2/75					Auto
+		EG_Gast_Jalousie_Nord RM_POSHÖHE	6/2/76					Auto
+		EG_Gast_Jalousie_Nord RM_POSLAMELLEN	6/2/77					Auto
+		EG_BadGast_Jalousie AUF/AB	6/2/80					Auto
+		EG_BadGast_Jalousie LAMELLEN	6/2/81					Auto
+		EG_BadGast_Jalousie ABS_POS	6/2/82					Auto
+		EG_BadGast_Jalousie ABS_LAMELLEN	6/2/83					Auto
+		EG_BadGast_Jalousie FAHRZEITMESSUNG	6/2/84					Auto
+		EG_BadGast_Jalousie DIAGNOSETEXT	6/2/85					Auto
+		EG_BadGast_Jalousie RM_POSHÖHE	6/2/86					Auto
+		EG_BadGast_Jalousie RM_POSLAMELLEN	6/2/87					Auto
+	OG		6/3/-					Auto
+		OG_Flur_Jalousie AUF/AB	6/3/0					Auto
+		OG_Flur_Jalousie LAMELLEN	6/3/1					Auto
+		OG_Flur_Jalousie ABS_POS	6/3/2					Auto
+		OG_Flur_Jalousie ABS_LAMELLEN	6/3/3					Auto
+		OG_Flur_Jalousie FAHRZEITMESSUNG	6/3/4					Auto
+		OG_Flur_Jalousie DIAGNOSETEXT	6/3/5					Auto
+		OG_Flur_Jalousie RM_POSHÖHE	6/3/6					Auto
+		OG_Flur_Jalousie RM_POSLAMELLEN	6/3/7					Auto
+		OG_Kinderbad_Jalousie AUF/AB	6/3/10					Auto
+		OG_Kinderbad_Jalousie LAMELLEN	6/3/11					Auto
+		OG_Kinderbad_Jalousie ABS_POS	6/3/12					Auto
+		OG_Kinderbad_Jalousie ABS_LAMELLEN	6/3/13					Auto
+		OG_Kinderbad_Jalousie FAHRZEITMESSUNG	6/3/14					Auto
+		OG_Kinderbad_Jalousie DIAGNOSETEXT	6/3/15					Auto
+		OG_Kinderbad_Jalousie RM_POSHÖHE	6/3/16					Auto
+		OG_Kinderbad_Jalousie RM_POSLAMELLEN	6/3/17					Auto
+		OG_Arbeit_Jalousie_West AUF/AB	6/3/20					Auto
+		OG_Arbeit_Jalousie_West LAMELLEN	6/3/21					Auto
+		OG_Arbeit_Jalousie_West ABS_POS	6/3/22					Auto
+		OG_Arbeit_Jalousie_West ABS_LAMELLEN	6/3/23					Auto
+		OG_Arbeit_Jalousie_West FAHRZEITMESSUNG	6/3/24					Auto
+		OG_Arbeit_Jalousie_West DIAGNOSETEXT	6/3/25					Auto
+		OG_Arbeit_Jalousie_West RM_POSHÖHE	6/3/26					Auto
+		OG_Arbeit_Jalousie_West RM_POSLAMELLEN	6/3/27					Auto
+		OG_Arbeit_Jalousie_Nord AUF/AB	6/3/30					Auto
+		OG_Arbeit_Jalousie_Nord LAMELLEN	6/3/31					Auto
+		OG_Arbeit_Jalousie_Nord ABS_POS	6/3/32					Auto
+		OG_Arbeit_Jalousie_Nord ABS_LAMELLEN	6/3/33					Auto
+		OG_Arbeit_Jalousie_Nord FAHRZEITMESSUNG	6/3/34					Auto
+		OG_Arbeit_Jalousie_Nord DIAGNOSETEXT	6/3/35					Auto
+		OG_Arbeit_Jalousie_Nord RM_POSHÖHE	6/3/36					Auto
+		OG_Arbeit_Jalousie_Nord RM_POSLAMELLEN	6/3/37					Auto
+		OG_Kind1_Jalousie AUF/AB	6/3/40					Auto
+		OG_Kind1_Jalousie LAMELLEN	6/3/41					Auto
+		OG_Kind1_Jalousie ABS_POS	6/3/42					Auto
+		OG_Kind1_Jalousie ABS_LAMELLEN	6/3/43					Auto
+		OG_Kind1_Jalousie FAHRZEITMESSUNG	6/3/44					Auto
+		OG_Kind1_Jalousie DIAGNOSETEXT	6/3/45					Auto
+		OG_Kind1_Jalousie RM_POSHÖHE	6/3/46					Auto
+		OG_Kind1_Jalousie RM_POSLAMELLEN	6/3/47					Auto
+		OG_Kind1_Jalousie AUF/AB	6/3/50					Auto
+		OG_Kind1_Jalousie LAMELLEN	6/3/51					Auto
+		OG_Kind1_Jalousie ABS_POS	6/3/52					Auto
+		OG_Kind1_Jalousie ABS_LAMELLEN	6/3/53					Auto
+		OG_Kind1_Jalousie FAHRZEITMESSUNG	6/3/54					Auto
+		OG_Kind1_Jalousie DIAGNOSETEXT	6/3/55					Auto
+		OG_Kind1_Jalousie RM_POSHÖHE	6/3/56					Auto
+		OG_Kind1_Jalousie RM_POSLAMELLEN	6/3/57					Auto
+		OG_Kind1_JalousieDachfenster AUF/AB	6/3/60					Auto
+		OG_Kind1_JalousieDachfenster LAMELLEN	6/3/61					Auto
+		OG_Kind1_JalousieDachfenster ABS_POS	6/3/62					Auto
+		OG_Kind1_JalousieDachfenster ABS_LAMELLEN	6/3/63					Auto
+		OG_Kind1_JalousieDachfenster FAHRZEITMESSUNG	6/3/64					Auto
+		OG_Kind1_JalousieDachfenster DIAGNOSETEXT	6/3/65					Auto
+		OG_Kind1_JalousieDachfenster RM_POSHÖHE	6/3/66					Auto
+		OG_Kind1_JalousieDachfenster RM_POSLAMELLEN	6/3/67					Auto
+		OG_Kind2_Jalousie AUF/AB	6/3/70					Auto
+		OG_Kind2_Jalousie LAMELLEN	6/3/71					Auto
+		OG_Kind2_Jalousie ABS_POS	6/3/72					Auto
+		OG_Kind2_Jalousie ABS_LAMELLEN	6/3/73					Auto
+		OG_Kind2_Jalousie FAHRZEITMESSUNG	6/3/74					Auto
+		OG_Kind2_Jalousie DIAGNOSETEXT	6/3/75					Auto
+		OG_Kind2_Jalousie RM_POSHÖHE	6/3/76					Auto
+		OG_Kind2_Jalousie RM_POSLAMELLEN	6/3/77					Auto
+		OG_Kind2_JalousieDachfenster AUF/AB	6/3/80					Auto
+		OG_Kind2_JalousieDachfenster LAMELLEN	6/3/81					Auto
+		OG_Kind2_JalousieDachfenster ABS_POS	6/3/82					Auto
+		OG_Kind2_JalousieDachfenster ABS_LAMELLEN	6/3/83					Auto
+		OG_Kind2_JalousieDachfenster FAHRZEITMESSUNG	6/3/84					Auto
+		OG_Kind2_JalousieDachfenster DIAGNOSETEXT	6/3/85					Auto
+		OG_Kind2_JalousieDachfenster RM_POSHÖHE	6/3/86					Auto
+		OG_Kind2_JalousieDachfenster RM_POSLAMELLEN	6/3/87					Auto
+		OG_Kind3_Jalousie AUF/AB	6/3/90					Auto
+		OG_Kind3_Jalousie LAMELLEN	6/3/91					Auto
+		OG_Kind3_Jalousie ABS_POS	6/3/92					Auto
+		OG_Kind3_Jalousie ABS_LAMELLEN	6/3/93					Auto
+		OG_Kind3_Jalousie FAHRZEITMESSUNG	6/3/94					Auto
+		OG_Kind3_Jalousie DIAGNOSETEXT	6/3/95					Auto
+		OG_Kind3_Jalousie RM_POSHÖHE	6/3/96					Auto
+		OG_Kind3_Jalousie RM_POSLAMELLEN	6/3/97					Auto
+		OG_Kind3_JalousieDachfenster AUF/AB	6/3/100					Auto
+		OG_Kind3_JalousieDachfenster LAMELLEN	6/3/101					Auto
+		OG_Kind3_JalousieDachfenster ABS_POS	6/3/102					Auto
+		OG_Kind3_JalousieDachfenster ABS_LAMELLEN	6/3/103					Auto
+		OG_Kind3_JalousieDachfenster FAHRZEITMESSUNG	6/3/104					Auto
+		OG_Kind3_JalousieDachfenster DIAGNOSETEXT	6/3/105					Auto
+		OG_Kind3_JalousieDachfenster RM_POSHÖHE	6/3/106					Auto
+		OG_Kind3_JalousieDachfenster RM_POSLAMELLEN	6/3/107					Auto
+		OG_Eltern_Jalousie AUF/AB	6/3/110					Auto
+		OG_Eltern_Jalousie LAMELLEN	6/3/111					Auto
+		OG_Eltern_Jalousie ABS_POS	6/3/112					Auto
+		OG_Eltern_Jalousie ABS_LAMELLEN	6/3/113					Auto
+		OG_Eltern_Jalousie FAHRZEITMESSUNG	6/3/114					Auto
+		OG_Eltern_Jalousie DIAGNOSETEXT	6/3/115					Auto
+		OG_Eltern_Jalousie RM_POSHÖHE	6/3/116					Auto
+		OG_Eltern_Jalousie RM_POSLAMELLEN	6/3/117					Auto
+		OG_Bad_Jalousie AUF/AB	6/3/120					Auto
+		OG_Bad_Jalousie LAMELLEN	6/3/121					Auto
+		OG_Bad_Jalousie ABS_POS	6/3/122					Auto
+		OG_Bad_Jalousie ABS_LAMELLEN	6/3/123					Auto
+		OG_Bad_Jalousie FAHRZEITMESSUNG	6/3/124					Auto
+		OG_Bad_Jalousie DIAGNOSETEXT	6/3/125					Auto
+		OG_Bad_Jalousie RM_POSHÖHE	6/3/126					Auto
+		OG_Bad_Jalousie RM_POSLAMELLEN	6/3/127					Auto
+		OG_Ankleide_JalousieDachfenster AUF/AB	6/3/130					Auto
+		OG_Ankleide_JalousieDachfenster LAMELLEN	6/3/131					Auto
+		OG_Ankleide_JalousieDachfenster ABS_POS	6/3/132					Auto
+		OG_Ankleide_JalousieDachfenster ABS_LAMELLEN	6/3/133					Auto
+		OG_Ankleide_JalousieDachfenster FAHRZEITMESSUNG	6/3/134					Auto
+		OG_Ankleide_JalousieDachfenster DIAGNOSETEXT	6/3/135					Auto
+		OG_Ankleide_JalousieDachfenster RM_POSHÖHE	6/3/136					Auto
+		OG_Ankleide_JalousieDachfenster RM_POSLAMELLEN	6/3/137					Auto
+		OG_WC_Jalousie AUF/AB	6/3/140					Auto
+		OG_WC_Jalousie LAMELLEN	6/3/141					Auto
+		OG_WC_Jalousie ABS_POS	6/3/142					Auto
+		OG_WC_Jalousie ABS_LAMELLEN	6/3/143					Auto
+		OG_WC_Jalousie FAHRZEITMESSUNG	6/3/144					Auto
+		OG_WC_Jalousie DIAGNOSETEXT	6/3/145					Auto
+		OG_WC_Jalousie RM_POSHÖHE	6/3/146					Auto
+		OG_WC_Jalousie RM_POSLAMELLEN	6/3/147					Auto

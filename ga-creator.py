@@ -17,6 +17,7 @@ with open(filename + '.yaml', 'r') as file:
     config = yaml.safe_load(file)
 
 print(config)
+print('Begin processing ' + filename + '.yaml')
 
 def formatGA(mgAddr, ugAddr):
     ga = str(config['GA_config']['HG']) + '/' + str(mgAddr) + '/' + str(ugAddr)
@@ -24,17 +25,17 @@ def formatGA(mgAddr, ugAddr):
 
 def formatCSV(ga, mg, ug):    
         if mg == '-' and ug == '-':
-            print('Main', 'Middle', 'Sub', 'Address', 'Central', 'Unfiltered', 'Description', 'DatapointType', 'Security', sep=';')
-            print(config['GA_config']['HG_Name'], '', '', ga, '', '', '', '', 'Auto', sep=';')
+            #print('Main', 'Middle', 'Sub', 'Address', 'Central', 'Unfiltered', 'Description', 'DatapointType', 'Security', sep=';')
+            #print(config['GA_config']['HG_Name'], '', '', ga, '', '', '', '', 'Auto', sep=';')
             with open(filename + '.csv', 'w', encoding='cp1252') as f:
                 f.write('Main' + sep + 'Middle' + sep + 'Sub' + sep + 'Address' + sep + 'Central' + sep + 'Unfiltered' + sep + 'Description' + sep + 'DatapointType' + sep + 'Security\n')
                 f.write(config['GA_config']['HG_Name'] + sep + sep + sep + ga + sep + sep + sep + sep + sep + 'Auto\n')
         if mg != '-' and ug == '-':            
-            print('', mg, '', ga, '', '', '', '', 'Auto', sep=';')
+            #print('', mg, '', ga, '', '', '', '', 'Auto', sep=';')
             with open(filename + '.csv', 'a', encoding='cp1252') as f:
                 f.write(sep + mg + sep + sep + ga + sep + sep + sep + sep + sep + 'Auto\n')
         if mg != '-' and ug != '-':
-            print('', '', ug, ga, '', '', '', '', 'Auto', sep=';')
+            #print('', '', ug, ga, '', '', '', '', 'Auto', sep=';')
             with open(filename + '.csv', 'a', encoding='cp1252') as f:
                 f.write(sep + sep + ug + sep + ga + sep + sep + sep + sep + sep + 'Auto\n')
 
@@ -48,15 +49,27 @@ for mg in config['GA_config']['MG_Name']:
     formatCSV(ga, mg, '-')
 
     for item in config['items']:
+        blocksize = config['block']['blocksize']
+        # Check if additional parameters of item are provided and adjust accordingly
+        if type(item) is not str:
+            for key in item:
+                for parameter, value in item[key].items() :
+                    if parameter == 'blocksize':
+                        blocksize = value
+                item = key      
+        
         if item.startswith(mg):
-            for entity in config['block']['entities']:
+            for entity in config['block']['entities']:                
                 #print(str(config['GA_config']['HG']) + '/' + str(mgAddr) + '/' + str(ugAddr) + ' - ' + item + ' ' + entity)                
                 #print(formatGA(mgAddr, ugAddr))
                 ug =  item + ' ' + entity
                 ga = formatGA(mgAddr, ugAddr)                
                 formatCSV(ga, mg, ug)
                 ugAddr += 1
-            # After one block is done continue with next block number    
-            ugAddr = math.ceil(ugAddr / config['block']['blocksize']) * config['block']['blocksize']
+            # After one block is done continue with next block number
+            if ugAddr >= 255:
+                print('WARNING: Address greater than 255: ' + entity + ' ' + ga)    
+            ugAddr = math.ceil(ugAddr / blocksize) * blocksize
     mgAddr += 1
     ugAddr = 0
+print('Done processing ' + filename + '.yaml')
