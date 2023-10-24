@@ -7,7 +7,7 @@ A creator for KNX Group Addresses. Just provide a YAML file and the group creato
 - .venv/bin/python ga-creator.py [FILE].yaml 
 
 ## Structure of group addresses
-Currently on the following GA-structure is supported:
+Currently on the following GA-structure is supported:  
 DEVICETYPE / FLOOR / Device1-DATAPOINT1  
 DEVICETYPE / FLOOR / Device1-DATAPOINT2  
 DEVICETYPE / FLOOR / Device1-DATAPOINTX  
