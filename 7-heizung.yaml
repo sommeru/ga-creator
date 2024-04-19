@@ -1,0 +1,59 @@
+GA_config:
+  HG: 7
+  HG_Name: Heizung
+      
+  MG_Name:
+    - AUSSEN
+    - UG
+    - EG
+    - OG
+  
+block:  
+  blocksize: 20
+  entities: 
+    - IST
+    - SOLL
+    - BASISSOLL
+    - SOLLWERTVERSCHIEBUNG_ABS
+    - SOLLWERTVERSCHIEBUNG_REL
+    - BETRIEBSART
+    - BETRIEBSART_KOMFORT
+    - BETRIEBSART_NACHT
+    - BETRIEBSART_FROSTSCHUTZ
+    - VORLAUFTEMP_HEIZ
+    - OBERFLÄCHENTEMP_KÜHL
+    - TAUPUNKTALARM
+    - RM_SOLL
+    - RM_HEIZEN
+    - RM_VENTILZUSTAND
+    - RM_HVACMODE
+    - RM_STÖRUNG
+
+items:
+  - UG_Flur_HZ
+  - UG_Elektro_HZ
+  - UG_Werkstatt_HZ
+  - UG_Lager_HZ
+  - UG_Abstell_HZ
+  - UG_Hauswirtschaft_HZ
+  - UG_Heizung_HZ
+  - EG_Eingang_HZ
+  - EG_Gardarobe_HZ
+  - EG_Flur_HZ
+  - EG_Küche_HZ
+  - EG_Speise_HZ
+  - EG_Wohnen_HZ
+  - EG_Gast_HZ
+  - EG_BadGast_HZ
+  - OG_Flur_HZ1
+  - OG_Flur_HZ2
+  - OG_Kinderbad_HZ
+  - OG_Arbeit_HZ
+  - OG_Kind1_HZ
+  - OG_Kind2_HZ
+  - OG_Kind3_HZ
+  - OG_Eltern_HZ
+  - OG_Elternbad_HZ
+  - OG_Ankleide_HZ
+  - OG_Dusche_HZ
+  - OG_WC_HZ
