@@ -21,29 +21,26 @@ block:
     - RM_POSLAMELLEN
 
 items:
-  - EG_Eingang_Jalousie
+  - EG_Flur_Jalousie
+  - EG_Speise_Jalousie
   - EG_Küche_Jalousie_Ost
-  - EG_Küche_Jalousie_Südost
-  - EG_Küche_Jalousie_Südwest
+  - EG_Küche_Jalousie_Süd
+  - EG_Wohnen_Jalousie_Schiebetüre
+  - EG_Wohnen_Jalousie_Schiebetüre2
   - EG_Wohnen_Jalousie_West
-  - EG_Wohnen_Jalousie_Süd
   - EG_Gast_Jalousie_West
   - EG_Gast_Jalousie_Nord
   - EG_BadGast_Jalousie
-  - AUSSEN_Markise Süd-Ost
-  - AUSSEN_Markise Süd-West
   - OG_Flur_Jalousie
   - OG_Kinderbad_Jalousie
   - OG_Arbeit_Jalousie_West
   - OG_Arbeit_Jalousie_Nord
-  - OG_Kind1_Jalousie
-  - OG_Kind1_Jalousie
-  - OG_Kind1_JalousieDachfenster
-  - OG_Kind2_Jalousie
-  - OG_Kind2_JalousieDachfenster
-  - OG_Kind3_Jalousie
-  - OG_Kind3_JalousieDachfenster
+  - OG_Kind1_Jalousie_Süd
+  - OG_Kind1_Jalousie_West
+  - OG_Kind2_Jalousie_Süd
+  - OG_Kind3_Jalousie_Süd
   - OG_Eltern_Jalousie
   - OG_Bad_Jalousie
-  - OG_Ankleide_JalousieDachfenster
   - OG_WC_Jalousie
+  - AUSSEN_Markise_Süd-Ost
+  - AUSSEN_Markise_Süd-West
