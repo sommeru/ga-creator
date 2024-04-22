@@ -7,18 +7,22 @@ GA_config:
     - UG
     - EG
     - OG
+    - DFF
   
 block:  
-  blocksize: 10
+  blocksize: 20
   entities: 
     - AUF/AB
     - LAMELLEN 
     - ABS_POS
     - ABS_LAMELLEN
-    - FAHRZEITMESSUNG
-    - DIAGNOSETEXT
     - RM_POSHÖHE
     - RM_POSLAMELLEN
+    - FAHRZEITMESSUNG
+    - WINDALARM
+    - FENSTERKONTAKT
+    - DIAGNOSETEXT
+
 
 items:
   - EG_Flur_Jalousie
@@ -37,10 +41,14 @@ items:
   - OG_Arbeit_Jalousie_Nord
   - OG_Kind1_Jalousie_Süd
   - OG_Kind1_Jalousie_West
+  - DFF_Kind1
   - OG_Kind2_Jalousie_Süd
+  - DFF_Kind2
   - OG_Kind3_Jalousie_Süd
+  - DFF_Kind3
   - OG_Eltern_Jalousie
   - OG_Bad_Jalousie
+  - DFF_Ankleide
   - OG_WC_Jalousie
   - AUSSEN_Markise_Süd-Ost
   - AUSSEN_Markise_Süd-West

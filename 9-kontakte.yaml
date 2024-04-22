@@ -16,22 +16,23 @@ block:
 items:
   - UG_Elektro_FK_West
   - UG_Elektro_FK_Ost
-  - UG_Werkstatt_FK_Süd
   - UG_Werkstatt_FK_Nord
+  - UG_Werkstatt_FK_Süd
   - UG_Lager_FK
   - UG_Abstell_FK
   - UG_Hauswirtschaft_FK
   - UG_Heizung_FK
-  - EG_Eingang_FK
-  - EG_Eingang_TK
-  - EG_Speise_FK
+  - EG_Küche_FK_Ost
   - EG_Küche_FK_Terasse
-  - EG_Wohnen_FK
-  - EG_Gast_FK
+  - EG_Wohnen_Schiebetüre
+  - EG_Speise
+  - EG_Gast_Terrasse
+  - EG_Gast_Nord
   - EG_BadGast_FK
   - OG_Flur_FK
   - OG_Kinderbad_FK
-  - OG_Arbeit_FK
+  - OG_Arbeit_FK_West
+  - OG_Arbeit_FK_Nord
   - OG_Kind1_FK_Balkon
   - OG_Kind1_FK_DFF
   - OG_Kind2_FK_Balkon
